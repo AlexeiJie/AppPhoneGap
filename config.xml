@@ -2,18 +2,18 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
 
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.alex.prueba01"
-    version     = "0.0.1"
+    id          = "com.alex.newsapp"
+    version     = "0.0.2"
 >
 
-    <name>Ejemplo appa</name>
+    <name>News App</name>
 
     <description>
-    Descripción del proyecto
+    Repositorio de noticias
     </description>
 
-    <author href="http://www.ovnyline.com" email="info@ovnyline.com">
-    Grupo Ovnyline Comunicación
+    <author href="" email="desweb15@gmail.com">
+    Jie's Experiments
     </author>
 
      <!--
